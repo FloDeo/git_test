@@ -1,1 +1,2 @@
-Hello World from Flo 
+Hello World from Flo. 
+I'm happy that i'm currently realy learning to code.
